@@ -968,6 +968,14 @@ COLLADA:
   codemirror_mode: xml
   codemirror_mime_type: text/xml
   language_id: 49
+Conor:
+  type: programing
+  color: "#c084fc"
+  extensions:
+  - ".cnr"
+  tm_scope: texto.conor
+  ace_mode: text
+  language_id: 1999
 CQL:
   type: programming
   color: "#006091"
